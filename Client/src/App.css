@@ -1,0 +1,143 @@
+.App {
+  text-align: center;
+  
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.h3-name-plan{
+  color: rgb(255, 225, 104);
+}
+
+.MyCard{
+  color: #282c34;
+}
+
+.CardActions{
+  /* background-color: rgb(176, 9, 9); */
+  /* background-color: rgb(221, 0, 0); */
+  /* background-image: conic-gradient(red, rgb(239, 98, 37), rgb(208, 102, 4), rgb(255, 230, 0), black); */
+  /* background-image: linear-gradient(rgb(215, 0, 0), rgb(125, 7, 7)) */
+  /* background: linear-gradient(270deg,#6a82fb,#fc5c7d); */
+  background: linear-gradient(270deg, rgb(189, 16, 16),#16a4c7);
+}
+
+.Card{
+  display: inline-block;
+  margin-left: 2%;
+}
+
+.Card2{
+  display: inline-block;
+}
+
+.Collapse{
+  display: inline-block;
+  width: 250px;
+}
+.allApp{
+  background-color: black;
+}
+.avatar{
+  background: linear-gradient(270deg, rgb(189, 16, 16),#16a4c7);
+  /* background-color:    linear-gradient(90deg, #00aaee 10%, #DD2476 90%);; */
+}
+.tabs{
+  /* background-color:    linear-gradient(90deg, #de2915 10%, #e0dddf 90%);; */
+
+  /* background: linear-gradient(270deg, rgb(189, 16, 16),#16a4c7); */
+  /* background-color: #faefb0; */
+background-color: rgb(255, 255, 255);
+
+
+}
+.t{
+  color: rgb(189, 16, 16);
+}
+.button{
+  color: rgb(243, 248, 75);
+  background: linear-gradient(270deg, rgb(189, 16, 16),#16a4c7);
+  /* background: linear-gradient(270deg,#6a82fb,#fc5c7d); */
+  /* background-image: linear-gradient(rgb(215, 0, 0), rgb(125, 7, 7)) */
+  /* //background-color: rgb(189, 16, 16); */
+}
+.my3{
+  background: linear-gradient(270deg, rgb(189, 16, 16),#16a4c7);
+  /* background: linear-gradient(270deg,#6a82fb,#fc5c7d); */
+  /* background-image: linear-gradient(rgb(215, 0, 0), rgb(125, 7, 7)) */
+}
+.BtnSend{
+  color: rgb(255, 255, 255);
+  /* border-color: linear-gradient(270deg, rgb(189, 16, 16),#16a4c7); */
+  background-color: rgb(189, 16, 16);
+  /* font-family: monospace; */
+  /* background: linear-gradient(270deg, rgb(189, 16, 16),#16a4c7); */
+
+}
+.Login{
+  background: linear-gradient(270deg, rgb(189, 16, 16),#16a4c7);
+  /* background: linear-gradient(270deg,#6a82fb,#fc5c7d); */
+  /* background-image: linear-gradient(rgb(215, 0, 0), rgb(125, 7, 7)) */
+
+}
+.Log{
+  color: rgb(255, 255, 255);
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.myclass + label {
+  font-size: 2em;
+  font-weight: 700;
+  color: white;
+  background-color: green;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.myclass:focus + label,
+.myclass + label:hover {
+  background-color: rgb(177, 128, 177);
+}
+
+
+.bg-gradient-theme-left {
+  background: linear-gradient(270deg, rgb(189, 16, 16),#16a4c7);
+  /* background: linear-gradient(270deg,#6a82fb,#fc5c7d); */
+}

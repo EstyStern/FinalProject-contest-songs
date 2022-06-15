@@ -1,0 +1,275 @@
+F:\פרוייקט גמר\Server\3\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+F:\פרוייקט גמר\Server\3\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+F:\פרוייקט גמר\Server\3\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+F:\פרוייקט גמר\Server\3\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\פרוייקט גמר\Server\3\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+F:\פרוייקט גמר\Server\3\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\פרוייקט גמר\Server\3\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\פרוייקט גמר\Server\3\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+F:\פרוייקט גמר\Server\3\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+F:\פרוייקט גמר\Server\3\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+F:\פרוייקט גמר\Server\3\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CoreCompileInputs.cache
+F:\פרוייקט גמר\Server\3\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+F:\פרוייקט גמר\Server\3\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+F:\פרוייקט גמר\Server\3\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+E:\פרוייקט גמר\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+E:\פרוייקט גמר\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+E:\פרוייקט גמר\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+E:\פרוייקט גמר\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+E:\פרוייקט גמר\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+E:\פרוייקט גמר\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+E:\פרוייקט גמר\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+E:\פרוייקט גמר\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+E:\פרוייקט גמר\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+E:\פרוייקט גמר\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+E:\פרוייקט גמר\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CoreCompileInputs.cache
+E:\פרוייקט גמר\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+E:\פרוייקט גמר\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+E:\פרוייקט גמר\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+D:\פרוייקט גמר\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+D:\פרוייקט גמר\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+D:\פרוייקט גמר\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+D:\פרוייקט גמר\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+D:\פרוייקט גמר\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+D:\פרוייקט גמר\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+D:\פרוייקט גמר\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\פרוייקט גמר\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.AssemblyReference.cache
+D:\פרוייקט גמר\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרוייקט גמר\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+D:\פרוייקט גמר\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+D:\פרוייקט גמר\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CoreCompileInputs.cache
+D:\פרוייקט גמר\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+D:\פרוייקט גמר\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+D:\פרוייקט גמר\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.AssemblyReference.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CoreCompileInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+D:\פרוייקט גמר\Server\5\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+D:\פרוייקט גמר\Server\5\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+D:\פרוייקט גמר\Server\5\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+D:\פרוייקט גמר\Server\5\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+D:\פרוייקט גמר\Server\5\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+D:\פרוייקט גמר\Server\5\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+D:\פרוייקט גמר\Server\5\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\פרוייקט גמר\Server\5\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+D:\פרוייקט גמר\Server\5\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+D:\פרוייקט גמר\Server\5\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+D:\פרוייקט גמר\Server\5\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CoreCompileInputs.cache
+D:\פרוייקט גמר\Server\5\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+D:\פרוייקט גמר\Server\5\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+D:\פרוייקט גמר\Server\5\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.AssemblyReference.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CoreCompileInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+G:\פרויקט גמר\SERVER\06\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+G:\פרויקט גמר\SERVER\06\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+G:\פרויקט גמר\SERVER\06\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+G:\פרויקט גמר\SERVER\06\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+G:\פרויקט גמר\SERVER\06\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+G:\פרויקט גמר\SERVER\06\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+G:\פרויקט גמר\SERVER\06\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+G:\פרויקט גמר\SERVER\06\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+G:\פרויקט גמר\SERVER\06\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+G:\פרויקט גמר\SERVER\06\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+G:\פרויקט גמר\SERVER\06\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+G:\פרויקט גמר\SERVER\06\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+G:\פרויקט גמר\SERVER\06\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+E:\פרוייקט גמר\Server\9\8\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+E:\פרוייקט גמר\Server\9\8\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+E:\פרוייקט גמר\Server\9\8\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+E:\פרוייקט גמר\Server\9\8\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+E:\פרוייקט גמר\Server\9\8\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+E:\פרוייקט גמר\Server\9\8\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+E:\פרוייקט גמר\Server\9\8\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+E:\פרוייקט גמר\Server\9\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+E:\פרוייקט גמר\Server\9\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+E:\פרוייקט גמר\Server\9\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+E:\פרוייקט גמר\Server\9\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CoreCompileInputs.cache
+E:\פרוייקט גמר\Server\9\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+E:\פרוייקט גמר\Server\9\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+E:\פרוייקט גמר\Server\9\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.AssemblyReference.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CoreCompileInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.AssemblyReference.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CoreCompileInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb

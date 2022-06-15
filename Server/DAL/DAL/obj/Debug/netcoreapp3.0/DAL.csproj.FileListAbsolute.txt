@@ -1,0 +1,242 @@
+C:\Users\User\Desktop\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+C:\Users\User\Desktop\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Desktop\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+C:\Users\User\Desktop\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Desktop\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Desktop\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\3\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\3\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\3\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\3\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\3\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\3\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\3\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\3\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\3\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+F:\פרוייקט גמר\Server\3\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+F:\פרוייקט גמר\Server\3\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+F:\פרוייקט גמר\Server\3\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+F:\פרוייקט גמר\Server\3\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\פרוייקט גמר\Server\3\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\פרוייקט גמר\Server\3\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+F:\פרוייקט גמר\Server\3\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+F:\פרוייקט גמר\Server\3\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.CoreCompileInputs.cache
+F:\פרוייקט גמר\Server\3\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+F:\פרוייקט גמר\Server\3\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+F:\פרוייקט גמר\Server\3\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.genruntimeconfig.cache
+F:\פרוייקט גמר\Server\3\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר!!!!!!\SERVER\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+E:\פרוייקט גמר\Server\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+E:\פרוייקט גמר\Server\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+E:\פרוייקט גמר\Server\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+E:\פרוייקט גמר\Server\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+E:\פרוייקט גמר\Server\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+E:\פרוייקט גמר\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+E:\פרוייקט גמר\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+E:\פרוייקט גמר\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.CoreCompileInputs.cache
+E:\פרוייקט גמר\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+E:\פרוייקט גמר\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+E:\פרוייקט גמר\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.genruntimeconfig.cache
+D:\פרוייקט גמר\Server\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+D:\פרוייקט גמר\Server\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+D:\פרוייקט גמר\Server\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+D:\פרוייקט גמר\Server\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+D:\פרוייקט גמר\Server\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\פרוייקט גמר\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.AssemblyReference.cache
+D:\פרוייקט גמר\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרוייקט גמר\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+D:\פרוייקט גמר\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+D:\פרוייקט גמר\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.CoreCompileInputs.cache
+D:\פרוייקט גמר\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+D:\פרוייקט גמר\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+D:\פרוייקט גמר\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.genruntimeconfig.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.AssemblyReference.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.CoreCompileInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\4\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.genruntimeconfig.cache
+D:\פרוייקט גמר\Server\5\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+D:\פרוייקט גמר\Server\5\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+D:\פרוייקט גמר\Server\5\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+D:\פרוייקט גמר\Server\5\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+D:\פרוייקט גמר\Server\5\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\פרוייקט גמר\Server\5\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+D:\פרוייקט גמר\Server\5\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+D:\פרוייקט גמר\Server\5\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+D:\פרוייקט גמר\Server\5\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.CoreCompileInputs.cache
+D:\פרוייקט גמר\Server\5\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+D:\פרוייקט גמר\Server\5\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+D:\פרוייקט גמר\Server\5\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.genruntimeconfig.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.AssemblyReference.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.CoreCompileInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\5\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.genruntimeconfig.cache
+G:\פרויקט גמר\SERVER\06\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+G:\פרויקט גמר\SERVER\06\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+G:\פרויקט גמר\SERVER\06\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+G:\פרויקט גמר\SERVER\06\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+G:\פרויקט גמר\SERVER\06\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+G:\פרויקט גמר\SERVER\06\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+G:\פרויקט גמר\SERVER\06\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+G:\פרויקט גמר\SERVER\06\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+G:\פרויקט גמר\SERVER\06\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+G:\פרויקט גמר\SERVER\06\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+E:\פרוייקט גמר\Server\9\8\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+E:\פרוייקט גמר\Server\9\8\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+E:\פרוייקט גמר\Server\9\8\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+E:\פרוייקט גמר\Server\9\8\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+E:\פרוייקט גמר\Server\9\8\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+E:\פרוייקט גמר\Server\9\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+E:\פרוייקט גמר\Server\9\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+E:\פרוייקט גמר\Server\9\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+E:\פרוייקט גמר\Server\9\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.CoreCompileInputs.cache
+E:\פרוייקט גמר\Server\9\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+E:\פרוייקט גמר\Server\9\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+E:\פרוייקט גמר\Server\9\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.genruntimeconfig.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.AssemblyReference.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.CoreCompileInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\8\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.genruntimeconfig.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.AssemblyReference.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.CoreCompileInputs.cache
+Y:\חומר ממורות\תיכנות\שנה ב תשפב\פרויקטים\אסתי ויפי\Server\9\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.genruntimeconfig.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\11\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\12\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\13\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14B\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\14C\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+C:\Users\User\Documents\יפי\שנה ב\פרויקט גמר\SERVER\16\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\user\Desktop\פרויקט גמר\Server\17\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.genruntimeconfig.cache
